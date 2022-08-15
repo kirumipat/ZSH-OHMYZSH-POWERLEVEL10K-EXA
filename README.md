@@ -1,11 +1,11 @@
 # ZSH-OHMYZSH-POWERLEVEL10K-EXA
 
 ## Нужный шрифт - FiraCode NF
-```zsh
+```console
 https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode
 ```
 ## Сам шрифт
-```
+```console
 https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium/complete/Fira%20Code%20Medium%20Nerd%20Font%20Complete.ttf
 ```
 ## Установите пакет ZSH
@@ -15,11 +15,11 @@ https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium
 sudo pacman -Sy zsh zsh-completions
 ```
 ## UBUNTU -->[<img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="50" height="50" >](https://ubuntu.com/)
-```bash
+```console
 sudo apt-get install zsh -y
 ```
 ## FEDORA --->[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1024px-Fedora_logo.svg.png" width="50" height="50" >](https://getfedora.org/)
-```bash
+```console
 sudo dnf install zsh
 ```
 ## Установить ZSH по умолчанию
