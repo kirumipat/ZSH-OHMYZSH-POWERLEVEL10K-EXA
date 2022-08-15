@@ -23,45 +23,45 @@ sudo apt-get install zsh -y
 sudo dnf install zsh
 ```
 ## Установить ZSH по умолчанию
-```bash
+```console
 sudo chsh -s /bin/zsh 
 ```
 ## После переходим к настройкам
 
 ## Install Oh My Zsh
-```bash
+```console
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 ## Install PowerLevel10k
-```bash
+```console
 git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
 ```
 ## Установка темы
-```bash
+```console
 sudo nano ~/.zshrc
 ```
-```bash
+```console
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
 ## Если после перезагрузки настройки не включились автоматически введите команду - 
-```bash
+```console
 p10k configure
 ```
 # Плагины
 
 ## Подсветка синтаксиса
-```bash
+```console
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 ## Авто дополнение
-```bash
+```console
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 # Замена стандартных команд
 
 ## ls - установите пакет ```exa```
 откройте настройки шэла
-```bash
+```console
 sudo nano ~/.zshrc
 ```
 добавьте в самый низ эти строки
@@ -73,38 +73,38 @@ fi
 ```
 ## cat - установите пакет ```bat```
 откройте настройки шэла 
-```bash
+```console
 sudo nano ~/.zshrc
 ```
 добавьте в самый низ эти строки
-```bash
+```console
 alias cat="bat"
 ```
 ## df - установите пакет ```duf```
 откройте настройки шэла 
-```bash
+```console
 sudo nano ~/.zshrc
 ```
 добавьте в самый низ эти строки
-```bash
+```console
 alias df="duf"
 ```
 ## find - установите пакет ```fd```
 откройте настройки шэла
-```bash
+```console
 sudo nano ~/.zshrc
 ```
 добавьте в самый низ эти строки
-```bash
+```console
 alias find="fd"
 ```
 ## man - установите пакет ```tldr```
 откройте настройки шэла
-```bash
+```console
 sudo nano ~/.zshrc
 ```
 добавьте в самый низ эти строки
-```bash
+```console
 alias man="tldr"
 ```
 ## VIDEO
