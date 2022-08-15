@@ -3,6 +3,9 @@
 
 
 #Нужный шрифт - FiraCode NF
+```zsh
+https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode
+```
 #Установите пакет ZSH
 ```
 ```
