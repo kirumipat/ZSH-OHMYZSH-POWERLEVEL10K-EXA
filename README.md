@@ -14,11 +14,11 @@ https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium
 ```bash
 sudo pacman -Sy zsh zsh-completions
 ```
-## UBUNTU
+## UBUNTU  [<img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="50" height="50" >](https://ubuntu.com/)
 ```bash
 sudo apt-get install zsh -y
 ```
-## FEDORA
+## FEDORA  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1024px-Fedora_logo.svg.png" width="50" height="50" >](https://getfedora.org/)
 ```bash
 sudo dnf install zsh
 ```
