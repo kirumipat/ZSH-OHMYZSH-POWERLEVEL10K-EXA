@@ -59,7 +59,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 ```
 # Замена стандартных команд
 
-## ls - установите пакет exa
+## ls - установите пакет ```exa```
 откройте настройки шэла
 ```bash
 sudo nano ~/.zshrc
