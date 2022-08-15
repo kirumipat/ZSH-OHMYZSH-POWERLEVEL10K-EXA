@@ -1,5 +1,5 @@
 # ZSH-OHMYZSH-POWERLEVEL10K-EXA
-
+[<img src="https://juststickers.in/wp-content/uploads/2017/10/terminal.png" width="50" height="50" >]
 ## Нужный шрифт - FiraCode NF
 ```console
 https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode
