@@ -3,7 +3,19 @@
 
 
 Нужный шрифт - FiraCode NF
-Установите пакет ZSH 
+Установите пакет ZSH
+ARCH
+```bash
+sudo pacman -Sy zsh zsh-completions
+```
+UBUNTU
+```bash
+sudo apt-get install zsh -y
+```
+FEDORA
+```bash
+sudo dnf install zsh
+```
 После переходим к настройкам
 
 Install Oh My Zsh
