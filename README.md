@@ -1,6 +1,6 @@
 # ZSH-OHMYZSH-POWERLEVEL10K-EXA
 
-Нужный шрифт - FiraCode NF
+##Нужный шрифт - FiraCode NF
 ```zsh
 https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode
 ```
@@ -102,5 +102,6 @@ sudo nano ~/.zshrc
 ```bash
 alias man="tldr"
 ```
-#VIDEO
+##VIDEO
+
 [![INSATALL ADDGUARD HOME](https://i.ytimg.com/vi/yfq1H9bT8c4/hqdefault.jpg)](https://youtu.be/A4FTz2vLCMo)
