@@ -10,7 +10,7 @@ https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium
 ```
 ## Установите пакет ZSH
 
-## ARCH
+## ARCH[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="50" height="50" >](https://archlinux.org/download/)
 ```bash
 sudo pacman -Sy zsh zsh-completions
 ```
