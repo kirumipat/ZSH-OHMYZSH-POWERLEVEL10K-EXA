@@ -51,7 +51,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 Замена стандартных команд
 
 ls - установите пакет exa
-откройте настройки шэла -
+откройте настройки шэла
 ```bash
 sudo nano ~/.zshrc
 ```
@@ -63,21 +63,38 @@ if [ -x "$(command -v exa)" ]; then
 fi
 ```
 cat - установите пакет bat
-откройте настройки шэла - sudo nano ~/.zshrc
+откройте настройки шэла 
+```bash
+sudo nano ~/.zshrc
+```
 добавьте в самый низ эти строки
+```bash
 alias cat="bat"
-
+```
 df - установите пакет duf
-откройте настройки шэла - sudo nano ~/.zshrc
+откройте настройки шэла 
+```bash
+sudo nano ~/.zshrc
+```
 добавьте в самый низ эти строки
+```bash
 alias df="duf"
-
+```
 find - установите пакет fd
-откройте настройки шэла - sudo nano ~/.zshrc
+откройте настройки шэла
+```bash
+sudo nano ~/.zshrc
+```
 добавьте в самый низ эти строки
+```bash
 alias find="fd"
-
+```
 man - установите пакет tldr
-откройте настройки шэла - sudo nano ~/.zshrc
+откройте настройки шэла
+```bash
+sudo nano ~/.zshrc
+```
 добавьте в самый низ эти строки
+```bash
 alias man="tldr"
+```
