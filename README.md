@@ -11,7 +11,7 @@ https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium
 ## Установите пакет ZSH
 
 ## ARCH ----->[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="50" height="50" >](https://archlinux.org/download/)
-```bash
+```console
 sudo pacman -Sy zsh zsh-completions
 ```
 ## UBUNTU -->[<img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="50" height="50" >](https://ubuntu.com/)
