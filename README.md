@@ -1,12 +1,14 @@
 # ZSH-OHMYZSH-POWERLEVEL10K-EXA
 
-
-
-#Нужный шрифт - FiraCode NF
+Нужный шрифт - FiraCode NF
 ```zsh
 https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode
 ```
-##Установите пакет ZSH
+Сам шрифт
+```
+https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium/complete/Fira%20Code%20Medium%20Nerd%20Font%20Complete.ttf
+```
+Установите пакет ZSH
 
 ARCH
 ```bash
