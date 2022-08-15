@@ -102,5 +102,5 @@ sudo nano ~/.zshrc
 ```bash
 alias man="tldr"
 ```
-VIDEO
+#VIDEO
 [![INSATALL ADDGUARD HOME](https://i.ytimg.com/vi/yfq1H9bT8c4/hqdefault.jpg)](https://youtu.be/A4FTz2vLCMo)
