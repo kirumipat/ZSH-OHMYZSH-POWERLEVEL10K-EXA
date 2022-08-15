@@ -59,6 +59,13 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ```console
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
+## Включаем плагины
+```console
+sudo nano ~/.zshrc
+```
+```console
+plugins=( git zsh-syntax-highlighting zsh-autosuggestions )
+```
 # Замена стандартных команд
 
 ## ls - установите пакет ```exa```
