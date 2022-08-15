@@ -22,6 +22,10 @@ FEDORA
 ```bash
 sudo dnf install zsh
 ```
+Установить ZSH по умолчанию
+```bash
+sudo chsh -s /bin/zsh 
+```
 После переходим к настройкам
 
 Install Oh My Zsh
