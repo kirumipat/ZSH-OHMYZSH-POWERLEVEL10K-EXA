@@ -1,4 +1,4 @@
-# ZSH<img src="https://juststickers.in/wp-content/uploads/2017/10/terminal.png" width="50" height="50">OHMYZSH-POWERLEVEL10K-EXA
+# ZSH<img src="https://juststickers.in/wp-content/uploads/2017/10/terminal.png" width="50" height="50">OHMYZSH<img src="https://tutorialcrawler.com/wp-content/uploads/2020/10/OH-MY-ZSH.png" width="50" height="50">POWERLEVEL10K-EXA
 
 ## Нужный шрифт - FiraCode NF
 ```console
