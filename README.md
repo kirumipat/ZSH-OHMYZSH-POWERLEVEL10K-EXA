@@ -76,8 +76,7 @@ sudo nano ~/.zshrc
 добавьте в самый низ эти строки
 ```bash
 if [ -x "$(command -v exa)" ]; then
-    alias ls="exa"
-    alias la="exa --long --all --group"
+    alias ls="exa --long --all --group"
 fi
 ```
 ## cat - установите пакет ```bat```
