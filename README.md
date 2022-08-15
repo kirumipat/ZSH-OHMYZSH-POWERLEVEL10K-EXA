@@ -10,15 +10,15 @@ https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium
 ```
 ## Установите пакет ZSH
 
-## ARCH     [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="50" height="50" >](https://archlinux.org/download/)
+## ARCH --->[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="50" height="50" >](https://archlinux.org/download/)
 ```bash
 sudo pacman -Sy zsh zsh-completions
 ```
-## UBUNTU   [<img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="50" height="50" >](https://ubuntu.com/)
+## UBUNTU -->[<img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" width="50" height="50" >](https://ubuntu.com/)
 ```bash
 sudo apt-get install zsh -y
 ```
-## FEDORA   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1024px-Fedora_logo.svg.png" width="50" height="50" >](https://getfedora.org/)
+## FEDORA -->[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1024px-Fedora_logo.svg.png" width="50" height="50" >](https://getfedora.org/)
 ```bash
 sudo dnf install zsh
 ```
