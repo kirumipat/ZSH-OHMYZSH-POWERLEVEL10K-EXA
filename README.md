@@ -71,7 +71,7 @@ if [ -x "$(command -v exa)" ]; then
     alias la="exa --long --all --group"
 fi
 ```
-## cat - установите пакет bat
+## cat - установите пакет ```bat```
 откройте настройки шэла 
 ```bash
 sudo nano ~/.zshrc
@@ -80,7 +80,7 @@ sudo nano ~/.zshrc
 ```bash
 alias cat="bat"
 ```
-## df - установите пакет duf
+## df - установите пакет ```duf```
 откройте настройки шэла 
 ```bash
 sudo nano ~/.zshrc
@@ -89,7 +89,7 @@ sudo nano ~/.zshrc
 ```bash
 alias df="duf"
 ```
-## find - установите пакет fd
+## find - установите пакет ```fd```
 откройте настройки шэла
 ```bash
 sudo nano ~/.zshrc
@@ -98,7 +98,7 @@ sudo nano ~/.zshrc
 ```bash
 alias find="fd"
 ```
-## man - установите пакет tldr
+## man - установите пакет ```tldr```
 откройте настройки шэла
 ```bash
 sudo nano ~/.zshrc
