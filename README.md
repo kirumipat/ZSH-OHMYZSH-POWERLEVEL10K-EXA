@@ -6,9 +6,8 @@
 ```zsh
 https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode
 ```
-#Установите пакет ZSH
-```
-```
+##Установите пакет ZSH
+
 ARCH
 ```bash
 sudo pacman -Sy zsh zsh-completions
