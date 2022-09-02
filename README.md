@@ -143,7 +143,7 @@ sudo nano ~/.zshrc
 alias ping="gping"
 ```
 
-## Включить подсветку в ```nano```
+# Включить подсветку в ```nano```
 ```console
 nano ~/.nanorc
 ```
