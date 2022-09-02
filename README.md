@@ -151,7 +151,7 @@ nano ~/.nanorc
 include /usr/share/nano/*nanorc
 ```
 
-# Плагины [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins).
+# Плагины [OHMYZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
 
 
 ## VIDEO
