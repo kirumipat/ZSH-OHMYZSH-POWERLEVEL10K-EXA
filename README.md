@@ -142,6 +142,14 @@ sudo nano ~/.zshrc
 ```console
 alias ping="gping"
 ```
+
+## Включить подсветку в ```nano```
+```console
+nano ~/.nanorc
+```
+```console
+include /usr/share/nano/*nanorc
+```
 ## VIDEO
 
 [![INSATALL ADDGUARD HOME](https://i.ytimg.com/vi/yfq1H9bT8c4/hqdefault.jpg)](https://youtu.be/A4FTz2vLCMo)
