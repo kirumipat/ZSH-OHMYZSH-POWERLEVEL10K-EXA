@@ -150,6 +150,10 @@ nano ~/.nanorc
 ```console
 include /usr/share/nano/*nanorc
 ```
+
+# Плагины [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins).
+
+
 ## VIDEO
 
-[![INSATALL ADDGUARD HOME](https://i.ytimg.com/vi/yfq1H9bT8c4/hqdefault.jpg)](https://youtu.be/A4FTz2vLCMo)
+[![ZSH](https://i.ytimg.com/vi/yfq1H9bT8c4/hqdefault.jpg)](https://youtu.be/A4FTz2vLCMo)
