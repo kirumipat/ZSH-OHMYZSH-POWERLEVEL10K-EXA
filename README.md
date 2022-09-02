@@ -115,6 +115,33 @@ sudo nano ~/.zshrc
 ```console
 alias man="tldr"
 ```
+## top - установите пакет ```btop```
+откройте настройки шэла
+```console
+sudo nano ~/.zshrc
+```
+добавьте в самый низ эти строки
+```console
+alias top="btop"
+```
+## du - установите пакет ```ncdu```
+откройте настройки шэла
+```console
+sudo nano ~/.zshrc
+```
+добавьте в самый низ эти строки
+```console
+alias du="ncdu"
+```
+## ping - установите пакет ```gping```
+откройте настройки шэла
+```console
+sudo nano ~/.zshrc
+```
+добавьте в самый низ эти строки
+```console
+alias ping="gping"
+```
 ## VIDEO
 
 [![INSATALL ADDGUARD HOME](https://i.ytimg.com/vi/yfq1H9bT8c4/hqdefault.jpg)](https://youtu.be/A4FTz2vLCMo)
