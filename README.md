@@ -148,7 +148,7 @@ alias ping="gping"
 nano ~/.nanorc
 ```
 ```console
-include /usr/share/nano/*nanorc
+include /usr/share/nano/*.nanorc
 ```
 
 # Плагины [OHMYZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
