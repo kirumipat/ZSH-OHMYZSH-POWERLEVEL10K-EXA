@@ -156,4 +156,4 @@ include /usr/share/nano/*.nanorc
 
 ## VIDEO
 
-[![ZSH](https://i.ytimg.com/vi/yfq1H9bT8c4/hqdefault.jpg)](https://youtu.be/A4FTz2vLCMo)
+[![ZSH](https://i.ytimg.com/vi/yfq1H9bT8c4/hqdefault.jpg)](https://youtu.be/yfq1H9bT8c4)
